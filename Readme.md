@@ -1,7 +1,7 @@
 # Bikcraft
 
 Projeto em Andamento:
-34% concluído.
+44% concluído.
 
 ## 1 - Introdução
 2 de 2 aulas completas.
@@ -10,7 +10,7 @@ Projeto em Andamento:
 10 de 10 aulas completas.
 
 ## 3 - Design de Projeto
-15 de 23 aulas completas
+23 de 23 aulas completas
 
 ## 4 - Básico de Codificação
 0 de 15 aulas completas
