@@ -1,7 +1,7 @@
 # Bikcraft
 
 Projeto em Andamento:
-78% concluído.
+88% concluído.
 
 ## 1 - Introdução
 
@@ -21,7 +21,7 @@ Projeto em Andamento:
 
 ## 5 - Código do Projeto
 
-12 de 29 aulas completas
+19 de 29 aulas completas
 
 ______________________________________________
 
